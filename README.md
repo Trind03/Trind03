@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **torsrind@outlook.com**
-
 - ⚡ Fun fact **I'm an workout enthusiast**
 
 <h3 align="left">Connect with me:</h3>
