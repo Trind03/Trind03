@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++**
 
-- ⚡ Fun fact **I'm an workout enthusiast**
+- ⚡ Fun fact **I'm an outdoor and workout enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
