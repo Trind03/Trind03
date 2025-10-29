@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Torstein</h1>
 <h3 align="center">A developer with an passion for embedded and back-end systems.</h3>
 
-- 🔭 I’m currently working on **izip** - lightweight cli app for file compression / decompresstion
+- 🔭 I’m currently working on **decom** - lightweight cli app for file compression / decompresstion
 
 - 🌱 I’m currently learning **rust & C++**
 
